@@ -1,7 +1,6 @@
 #x# Website README
-
-
-1.Nazmul Alam Nayeem
+1.Full Name
+Nazmul Alam Nayeem
 
 2. Design Principles
 Our website has been designed with careful consideration of several design principles to enhance user experience:
